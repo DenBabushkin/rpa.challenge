@@ -260,7 +260,7 @@
                         </d7p1:XPathAttribute>
                       </d8p1:list>
                     </d7p1:Attributes>
-                    <d7p1:IsEnabled>true</d7p1:IsEnabled>
+                    <d7p1:IsEnabled>false</d7p1:IsEnabled>
                     <d7p1:Name>html</d7p1:Name>
                   </d7p1:XPathNode>
                   <d7p1:XPathNode z:Id="i34">
@@ -277,7 +277,7 @@
                         </d7p1:XPathAttribute>
                       </d8p1:list>
                     </d7p1:Attributes>
-                    <d7p1:IsEnabled>true</d7p1:IsEnabled>
+                    <d7p1:IsEnabled>false</d7p1:IsEnabled>
                     <d7p1:Name>body</d7p1:Name>
                   </d7p1:XPathNode>
                   <d7p1:XPathNode z:Id="i36">
@@ -312,7 +312,7 @@
                         </d7p1:XPathAttribute>
                       </d8p1:list>
                     </d7p1:Attributes>
-                    <d7p1:IsEnabled>true</d7p1:IsEnabled>
+                    <d7p1:IsEnabled>false</d7p1:IsEnabled>
                     <d7p1:Name>app-root</d7p1:Name>
                   </d7p1:XPathNode>
                   <d7p1:XPathNode z:Id="i40">
@@ -347,7 +347,7 @@
                         </d7p1:XPathAttribute>
                       </d8p1:list>
                     </d7p1:Attributes>
-                    <d7p1:IsEnabled>true</d7p1:IsEnabled>
+                    <d7p1:IsEnabled>false</d7p1:IsEnabled>
                     <d7p1:Name>div</d7p1:Name>
                   </d7p1:XPathNode>
                   <d7p1:XPathNode z:Id="i44">
@@ -372,7 +372,7 @@
                         </d7p1:XPathAttribute>
                       </d8p1:list>
                     </d7p1:Attributes>
-                    <d7p1:IsEnabled>true</d7p1:IsEnabled>
+                    <d7p1:IsEnabled>false</d7p1:IsEnabled>
                     <d7p1:Name>app-rpa1</d7p1:Name>
                   </d7p1:XPathNode>
                   <d7p1:XPathNode z:Id="i47">
@@ -407,7 +407,7 @@
                         </d7p1:XPathAttribute>
                       </d8p1:list>
                     </d7p1:Attributes>
-                    <d7p1:IsEnabled>true</d7p1:IsEnabled>
+                    <d7p1:IsEnabled>false</d7p1:IsEnabled>
                     <d7p1:Name>div</d7p1:Name>
                   </d7p1:XPathNode>
                   <d7p1:XPathNode z:Id="i51">
@@ -442,7 +442,7 @@
                         </d7p1:XPathAttribute>
                       </d8p1:list>
                     </d7p1:Attributes>
-                    <d7p1:IsEnabled>true</d7p1:IsEnabled>
+                    <d7p1:IsEnabled>false</d7p1:IsEnabled>
                     <d7p1:Name>div</d7p1:Name>
                   </d7p1:XPathNode>
                   <d7p1:XPathNode z:Id="i55">
@@ -914,7 +914,7 @@
                           <d7p1:_name>LocalizedControlType</d7p1:_name>
                         </d7p1:XPathAttribute>
                         <d7p1:XPathAttribute z:Id="i107">
-                          <d7p1:IsEnabled>true</d7p1:IsEnabled>
+                          <d7p1:IsEnabled>false</d7p1:IsEnabled>
                           <d7p1:IsPositionAttribute>false</d7p1:IsPositionAttribute>
                           <d7p1:Operator>Equal</d7p1:Operator>
                           <d7p1:Value>'Сохранение'</d7p1:Value>
@@ -1159,7 +1159,7 @@
                         </d7p1:XPathAttribute>
                       </d8p1:list>
                     </d7p1:Attributes>
-                    <d7p1:IsEnabled>true</d7p1:IsEnabled>
+                    <d7p1:IsEnabled>false</d7p1:IsEnabled>
                     <d7p1:Name>Pane</d7p1:Name>
                   </d7p1:XPathNode>
                   <d7p1:XPathNode z:Id="i136">
@@ -1374,7 +1374,7 @@
                         </d7p1:XPathAttribute>
                       </d8p1:list>
                     </d7p1:Attributes>
-                    <d7p1:IsEnabled>true</d7p1:IsEnabled>
+                    <d7p1:IsEnabled>false</d7p1:IsEnabled>
                     <d7p1:Name>ComboBox</d7p1:Name>
                   </d7p1:XPathNode>
                   <d7p1:XPathNode z:Id="i160">
@@ -1506,7 +1506,7 @@
                           <d7p1:_name>LocalizedControlType</d7p1:_name>
                         </d7p1:XPathAttribute>
                         <d7p1:XPathAttribute z:Id="i174">
-                          <d7p1:IsEnabled>true</d7p1:IsEnabled>
+                          <d7p1:IsEnabled>false</d7p1:IsEnabled>
                           <d7p1:IsPositionAttribute>false</d7p1:IsPositionAttribute>
                           <d7p1:Operator>Equal</d7p1:Operator>
                           <d7p1:Value>'Имя файла:'</d7p1:Value>
@@ -1990,7 +1990,7 @@
                           <d7p1:_name>LocalizedControlType</d7p1:_name>
                         </d7p1:XPathAttribute>
                         <d7p1:XPathAttribute z:Id="i229">
-                          <d7p1:IsEnabled>true</d7p1:IsEnabled>
+                          <d7p1:IsEnabled>false</d7p1:IsEnabled>
                           <d7p1:IsPositionAttribute>false</d7p1:IsPositionAttribute>
                           <d7p1:Operator>Equal</d7p1:Operator>
                           <d7p1:Value>'Сохранение'</d7p1:Value>
@@ -2356,64 +2356,84 @@
       </AbstractStep>
       <AbstractStep z:Id="i271" i:type="ExecutedStep">
         <Childs />
-        <Id>4399d6f0-1992-4b24-a25d-b566d93ae3af</Id>
+        <Id>b39c9026-b397-4dac-adaf-8d32842cda57</Id>
         <Parent z:Ref="i2" />
         <PropertyValues>
           <PropertyValue z:Id="i272">
+            <PropertyName>Count</PropertyName>
+            <_dataType>Expression</_dataType>
+            <_expression>2</_expression>
+            <_value i:nil="true" />
+            <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+          </PropertyValue>
+        </PropertyValues>
+        <SelectedOptionId>0</SelectedOptionId>
+        <EnableStatus>true</EnableStatus>
+        <ExceptionHandlingMode>Default</ExceptionHandlingMode>
+        <RetryCount>-1</RetryCount>
+        <Text></Text>
+        <_activityFullName>BR.Core.Base.Sleep</_activityFullName>
+      </AbstractStep>
+      <AbstractStep z:Id="i273" i:type="ExecutedStep">
+        <Childs />
+        <Id>4399d6f0-1992-4b24-a25d-b566d93ae3af</Id>
+        <Parent z:Ref="i2" />
+        <PropertyValues>
+          <PropertyValue z:Id="i274">
             <PropertyName>Browser</PropertyName>
             <_dataType>Expression</_dataType>
             <_expression>browser</_expression>
             <_value i:nil="true" />
             <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
           </PropertyValue>
-          <PropertyValue z:Id="i273">
+          <PropertyValue z:Id="i275">
             <PropertyName>ClickType</PropertyName>
             <_dataType>Value</_dataType>
             <_expression i:nil="true" />
             <_value xmlns:d7p1="http://schemas.datacontract.org/2004/07/Activities.Web.Core" i:type="d7p1:MouseClickType">Left</_value>
             <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
           </PropertyValue>
-          <PropertyValue z:Id="i274">
+          <PropertyValue z:Id="i276">
             <PropertyName>IsProgrammatic</PropertyName>
             <_dataType>Value</_dataType>
             <_expression i:nil="true" />
             <_value xmlns:d7p1="http://www.w3.org/2001/XMLSchema" i:type="d7p1:boolean">true</_value>
             <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
           </PropertyValue>
-          <PropertyValue z:Id="i275">
+          <PropertyValue z:Id="i277">
             <PropertyName>HasScrollIntoView</PropertyName>
             <_dataType>Value</_dataType>
             <_expression i:nil="true" />
             <_value xmlns:d7p1="http://www.w3.org/2001/XMLSchema" i:type="d7p1:boolean">true</_value>
             <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
           </PropertyValue>
-          <PropertyValue z:Id="i276">
+          <PropertyValue z:Id="i278">
             <PropertyName>Element</PropertyName>
             <_dataType>Value</_dataType>
             <_expression></_expression>
             <_value i:nil="true" />
             <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
           </PropertyValue>
-          <PropertyValue z:Id="i277">
+          <PropertyValue z:Id="i279">
             <PropertyName>SearchBy</PropertyName>
             <_dataType>Value</_dataType>
             <_expression i:nil="true" />
             <_value xmlns:d7p1="http://schemas.datacontract.org/2004/07/Web.Core" i:type="d7p1:ElementSearchBy">XPath</_value>
             <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
           </PropertyValue>
-          <PropertyValue z:Id="i278">
+          <PropertyValue z:Id="i280">
             <PropertyName>SearchString</PropertyName>
             <_dataType>XPath</_dataType>
             <_expression i:nil="true" />
             <_value i:nil="true" />
-            <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" z:Id="i279">
+            <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" z:Id="i281">
               <d7p1:Nodes xmlns:d8p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel">
                 <d8p1:list>
-                  <d7p1:XPathNode z:Id="i280">
+                  <d7p1:XPathNode z:Id="i282">
                     <d7p1:AttributeOperators xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
                     <d7p1:Attributes>
                       <d8p1:list>
-                        <d7p1:XPathAttribute z:Id="i281">
+                        <d7p1:XPathAttribute z:Id="i283">
                           <d7p1:IsEnabled>false</d7p1:IsEnabled>
                           <d7p1:IsPositionAttribute>true</d7p1:IsPositionAttribute>
                           <d7p1:Operator>Equal</d7p1:Operator>
@@ -2421,7 +2441,7 @@
                           <d7p1:_isCSharpExpression>false</d7p1:_isCSharpExpression>
                           <d7p1:_name></d7p1:_name>
                         </d7p1:XPathAttribute>
-                        <d7p1:XPathAttribute z:Id="i282">
+                        <d7p1:XPathAttribute z:Id="i284">
                           <d7p1:IsEnabled>false</d7p1:IsEnabled>
                           <d7p1:IsPositionAttribute>false</d7p1:IsPositionAttribute>
                           <d7p1:Operator>Equal</d7p1:Operator>
@@ -2431,30 +2451,11 @@
                         </d7p1:XPathAttribute>
                       </d8p1:list>
                     </d7p1:Attributes>
-                    <d7p1:IsEnabled>true</d7p1:IsEnabled>
+                    <d7p1:IsEnabled>false</d7p1:IsEnabled>
                     <d7p1:Name>html</d7p1:Name>
                   </d7p1:XPathNode>
-                  <d7p1:XPathNode z:Id="i283">
-                    <d7p1:AttributeOperators xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
-                    <d7p1:Attributes>
-                      <d8p1:list>
-                        <d7p1:XPathAttribute z:Id="i284">
-                          <d7p1:IsEnabled>false</d7p1:IsEnabled>
-                          <d7p1:IsPositionAttribute>true</d7p1:IsPositionAttribute>
-                          <d7p1:Operator>Equal</d7p1:Operator>
-                          <d7p1:Value i:nil="true" />
-                          <d7p1:_isCSharpExpression>false</d7p1:_isCSharpExpression>
-                          <d7p1:_name></d7p1:_name>
-                        </d7p1:XPathAttribute>
-                      </d8p1:list>
-                    </d7p1:Attributes>
-                    <d7p1:IsEnabled>true</d7p1:IsEnabled>
-                    <d7p1:Name>body</d7p1:Name>
-                  </d7p1:XPathNode>
                   <d7p1:XPathNode z:Id="i285">
-                    <d7p1:AttributeOperators xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
-                      <d11p1:string>and</d11p1:string>
-                    </d7p1:AttributeOperators>
+                    <d7p1:AttributeOperators xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
                     <d7p1:Attributes>
                       <d8p1:list>
                         <d7p1:XPathAttribute z:Id="i286">
@@ -2465,7 +2466,26 @@
                           <d7p1:_isCSharpExpression>false</d7p1:_isCSharpExpression>
                           <d7p1:_name></d7p1:_name>
                         </d7p1:XPathAttribute>
-                        <d7p1:XPathAttribute z:Id="i287">
+                      </d8p1:list>
+                    </d7p1:Attributes>
+                    <d7p1:IsEnabled>false</d7p1:IsEnabled>
+                    <d7p1:Name>body</d7p1:Name>
+                  </d7p1:XPathNode>
+                  <d7p1:XPathNode z:Id="i287">
+                    <d7p1:AttributeOperators xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+                      <d11p1:string>and</d11p1:string>
+                    </d7p1:AttributeOperators>
+                    <d7p1:Attributes>
+                      <d8p1:list>
+                        <d7p1:XPathAttribute z:Id="i288">
+                          <d7p1:IsEnabled>false</d7p1:IsEnabled>
+                          <d7p1:IsPositionAttribute>true</d7p1:IsPositionAttribute>
+                          <d7p1:Operator>Equal</d7p1:Operator>
+                          <d7p1:Value i:nil="true" />
+                          <d7p1:_isCSharpExpression>false</d7p1:_isCSharpExpression>
+                          <d7p1:_name></d7p1:_name>
+                        </d7p1:XPathAttribute>
+                        <d7p1:XPathAttribute z:Id="i289">
                           <d7p1:IsEnabled>false</d7p1:IsEnabled>
                           <d7p1:IsPositionAttribute>false</d7p1:IsPositionAttribute>
                           <d7p1:Operator>Equal</d7p1:Operator>
@@ -2473,7 +2493,7 @@
                           <d7p1:_isCSharpExpression>false</d7p1:_isCSharpExpression>
                           <d7p1:_name>_nghost-c0</d7p1:_name>
                         </d7p1:XPathAttribute>
-                        <d7p1:XPathAttribute z:Id="i288">
+                        <d7p1:XPathAttribute z:Id="i290">
                           <d7p1:IsEnabled>false</d7p1:IsEnabled>
                           <d7p1:IsPositionAttribute>false</d7p1:IsPositionAttribute>
                           <d7p1:Operator>Equal</d7p1:Operator>
@@ -2483,16 +2503,16 @@
                         </d7p1:XPathAttribute>
                       </d8p1:list>
                     </d7p1:Attributes>
-                    <d7p1:IsEnabled>true</d7p1:IsEnabled>
+                    <d7p1:IsEnabled>false</d7p1:IsEnabled>
                     <d7p1:Name>app-root</d7p1:Name>
                   </d7p1:XPathNode>
-                  <d7p1:XPathNode z:Id="i289">
+                  <d7p1:XPathNode z:Id="i291">
                     <d7p1:AttributeOperators xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
                       <d11p1:string>and</d11p1:string>
                     </d7p1:AttributeOperators>
                     <d7p1:Attributes>
                       <d8p1:list>
-                        <d7p1:XPathAttribute z:Id="i290">
+                        <d7p1:XPathAttribute z:Id="i292">
                           <d7p1:IsEnabled>true</d7p1:IsEnabled>
                           <d7p1:IsPositionAttribute>true</d7p1:IsPositionAttribute>
                           <d7p1:Operator>Equal</d7p1:Operator>
@@ -2500,7 +2520,7 @@
                           <d7p1:_isCSharpExpression>false</d7p1:_isCSharpExpression>
                           <d7p1:_name></d7p1:_name>
                         </d7p1:XPathAttribute>
-                        <d7p1:XPathAttribute z:Id="i291">
+                        <d7p1:XPathAttribute z:Id="i293">
                           <d7p1:IsEnabled>false</d7p1:IsEnabled>
                           <d7p1:IsPositionAttribute>false</d7p1:IsPositionAttribute>
                           <d7p1:Operator>Equal</d7p1:Operator>
@@ -2508,7 +2528,7 @@
                           <d7p1:_isCSharpExpression>false</d7p1:_isCSharpExpression>
                           <d7p1:_name>_ngcontent-c0</d7p1:_name>
                         </d7p1:XPathAttribute>
-                        <d7p1:XPathAttribute z:Id="i292">
+                        <d7p1:XPathAttribute z:Id="i294">
                           <d7p1:IsEnabled>false</d7p1:IsEnabled>
                           <d7p1:IsPositionAttribute>false</d7p1:IsPositionAttribute>
                           <d7p1:Operator>Equal</d7p1:Operator>
@@ -2518,14 +2538,14 @@
                         </d7p1:XPathAttribute>
                       </d8p1:list>
                     </d7p1:Attributes>
-                    <d7p1:IsEnabled>true</d7p1:IsEnabled>
+                    <d7p1:IsEnabled>false</d7p1:IsEnabled>
                     <d7p1:Name>div</d7p1:Name>
                   </d7p1:XPathNode>
-                  <d7p1:XPathNode z:Id="i293">
+                  <d7p1:XPathNode z:Id="i295">
                     <d7p1:AttributeOperators xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
                     <d7p1:Attributes>
                       <d8p1:list>
-                        <d7p1:XPathAttribute z:Id="i294">
+                        <d7p1:XPathAttribute z:Id="i296">
                           <d7p1:IsEnabled>false</d7p1:IsEnabled>
                           <d7p1:IsPositionAttribute>true</d7p1:IsPositionAttribute>
                           <d7p1:Operator>Equal</d7p1:Operator>
@@ -2533,7 +2553,7 @@
                           <d7p1:_isCSharpExpression>false</d7p1:_isCSharpExpression>
                           <d7p1:_name></d7p1:_name>
                         </d7p1:XPathAttribute>
-                        <d7p1:XPathAttribute z:Id="i295">
+                        <d7p1:XPathAttribute z:Id="i297">
                           <d7p1:IsEnabled>false</d7p1:IsEnabled>
                           <d7p1:IsPositionAttribute>false</d7p1:IsPositionAttribute>
                           <d7p1:Operator>Equal</d7p1:Operator>
@@ -2543,16 +2563,16 @@
                         </d7p1:XPathAttribute>
                       </d8p1:list>
                     </d7p1:Attributes>
-                    <d7p1:IsEnabled>true</d7p1:IsEnabled>
+                    <d7p1:IsEnabled>false</d7p1:IsEnabled>
                     <d7p1:Name>app-rpa1</d7p1:Name>
                   </d7p1:XPathNode>
-                  <d7p1:XPathNode z:Id="i296">
+                  <d7p1:XPathNode z:Id="i298">
                     <d7p1:AttributeOperators xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
                       <d11p1:string>and</d11p1:string>
                     </d7p1:AttributeOperators>
                     <d7p1:Attributes>
                       <d8p1:list>
-                        <d7p1:XPathAttribute z:Id="i297">
+                        <d7p1:XPathAttribute z:Id="i299">
                           <d7p1:IsEnabled>false</d7p1:IsEnabled>
                           <d7p1:IsPositionAttribute>true</d7p1:IsPositionAttribute>
                           <d7p1:Operator>Equal</d7p1:Operator>
@@ -2560,7 +2580,7 @@
                           <d7p1:_isCSharpExpression>false</d7p1:_isCSharpExpression>
                           <d7p1:_name></d7p1:_name>
                         </d7p1:XPathAttribute>
-                        <d7p1:XPathAttribute z:Id="i298">
+                        <d7p1:XPathAttribute z:Id="i300">
                           <d7p1:IsEnabled>false</d7p1:IsEnabled>
                           <d7p1:IsPositionAttribute>false</d7p1:IsPositionAttribute>
                           <d7p1:Operator>Equal</d7p1:Operator>
@@ -2568,7 +2588,7 @@
                           <d7p1:_isCSharpExpression>false</d7p1:_isCSharpExpression>
                           <d7p1:_name>_ngcontent-c1</d7p1:_name>
                         </d7p1:XPathAttribute>
-                        <d7p1:XPathAttribute z:Id="i299">
+                        <d7p1:XPathAttribute z:Id="i301">
                           <d7p1:IsEnabled>false</d7p1:IsEnabled>
                           <d7p1:IsPositionAttribute>false</d7p1:IsPositionAttribute>
                           <d7p1:Operator>Equal</d7p1:Operator>
@@ -2578,16 +2598,16 @@
                         </d7p1:XPathAttribute>
                       </d8p1:list>
                     </d7p1:Attributes>
-                    <d7p1:IsEnabled>true</d7p1:IsEnabled>
+                    <d7p1:IsEnabled>false</d7p1:IsEnabled>
                     <d7p1:Name>div</d7p1:Name>
                   </d7p1:XPathNode>
-                  <d7p1:XPathNode z:Id="i300">
+                  <d7p1:XPathNode z:Id="i302">
                     <d7p1:AttributeOperators xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
                       <d11p1:string>and</d11p1:string>
                     </d7p1:AttributeOperators>
                     <d7p1:Attributes>
                       <d8p1:list>
-                        <d7p1:XPathAttribute z:Id="i301">
+                        <d7p1:XPathAttribute z:Id="i303">
                           <d7p1:IsEnabled>true</d7p1:IsEnabled>
                           <d7p1:IsPositionAttribute>true</d7p1:IsPositionAttribute>
                           <d7p1:Operator>Equal</d7p1:Operator>
@@ -2595,7 +2615,7 @@
                           <d7p1:_isCSharpExpression>false</d7p1:_isCSharpExpression>
                           <d7p1:_name></d7p1:_name>
                         </d7p1:XPathAttribute>
-                        <d7p1:XPathAttribute z:Id="i302">
+                        <d7p1:XPathAttribute z:Id="i304">
                           <d7p1:IsEnabled>false</d7p1:IsEnabled>
                           <d7p1:IsPositionAttribute>false</d7p1:IsPositionAttribute>
                           <d7p1:Operator>Equal</d7p1:Operator>
@@ -2603,7 +2623,7 @@
                           <d7p1:_isCSharpExpression>false</d7p1:_isCSharpExpression>
                           <d7p1:_name>_ngcontent-c1</d7p1:_name>
                         </d7p1:XPathAttribute>
-                        <d7p1:XPathAttribute z:Id="i303">
+                        <d7p1:XPathAttribute z:Id="i305">
                           <d7p1:IsEnabled>false</d7p1:IsEnabled>
                           <d7p1:IsPositionAttribute>false</d7p1:IsPositionAttribute>
                           <d7p1:Operator>Equal</d7p1:Operator>
@@ -2613,16 +2633,16 @@
                         </d7p1:XPathAttribute>
                       </d8p1:list>
                     </d7p1:Attributes>
-                    <d7p1:IsEnabled>true</d7p1:IsEnabled>
+                    <d7p1:IsEnabled>false</d7p1:IsEnabled>
                     <d7p1:Name>div</d7p1:Name>
                   </d7p1:XPathNode>
-                  <d7p1:XPathNode z:Id="i304">
+                  <d7p1:XPathNode z:Id="i306">
                     <d7p1:AttributeOperators xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
                       <d11p1:string>and</d11p1:string>
                     </d7p1:AttributeOperators>
                     <d7p1:Attributes>
                       <d8p1:list>
-                        <d7p1:XPathAttribute z:Id="i305">
+                        <d7p1:XPathAttribute z:Id="i307">
                           <d7p1:IsEnabled>true</d7p1:IsEnabled>
                           <d7p1:IsPositionAttribute>true</d7p1:IsPositionAttribute>
                           <d7p1:Operator>Equal</d7p1:Operator>
@@ -2630,7 +2650,7 @@
                           <d7p1:_isCSharpExpression>false</d7p1:_isCSharpExpression>
                           <d7p1:_name></d7p1:_name>
                         </d7p1:XPathAttribute>
-                        <d7p1:XPathAttribute z:Id="i306">
+                        <d7p1:XPathAttribute z:Id="i308">
                           <d7p1:IsEnabled>false</d7p1:IsEnabled>
                           <d7p1:IsPositionAttribute>false</d7p1:IsPositionAttribute>
                           <d7p1:Operator>Equal</d7p1:Operator>
@@ -2638,7 +2658,7 @@
                           <d7p1:_isCSharpExpression>false</d7p1:_isCSharpExpression>
                           <d7p1:_name>_ngcontent-c1</d7p1:_name>
                         </d7p1:XPathAttribute>
-                        <d7p1:XPathAttribute z:Id="i307">
+                        <d7p1:XPathAttribute z:Id="i309">
                           <d7p1:IsEnabled>false</d7p1:IsEnabled>
                           <d7p1:IsPositionAttribute>false</d7p1:IsPositionAttribute>
                           <d7p1:Operator>Equal</d7p1:Operator>
@@ -2651,13 +2671,13 @@
                     <d7p1:IsEnabled>true</d7p1:IsEnabled>
                     <d7p1:Name>div</d7p1:Name>
                   </d7p1:XPathNode>
-                  <d7p1:XPathNode z:Id="i308">
+                  <d7p1:XPathNode z:Id="i310">
                     <d7p1:AttributeOperators xmlns:d11p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
                       <d11p1:string>and</d11p1:string>
                     </d7p1:AttributeOperators>
                     <d7p1:Attributes>
                       <d8p1:list>
-                        <d7p1:XPathAttribute z:Id="i309">
+                        <d7p1:XPathAttribute z:Id="i311">
                           <d7p1:IsEnabled>false</d7p1:IsEnabled>
                           <d7p1:IsPositionAttribute>true</d7p1:IsPositionAttribute>
                           <d7p1:Operator>Equal</d7p1:Operator>
@@ -2665,7 +2685,7 @@
                           <d7p1:_isCSharpExpression>false</d7p1:_isCSharpExpression>
                           <d7p1:_name></d7p1:_name>
                         </d7p1:XPathAttribute>
-                        <d7p1:XPathAttribute z:Id="i310">
+                        <d7p1:XPathAttribute z:Id="i312">
                           <d7p1:IsEnabled>false</d7p1:IsEnabled>
                           <d7p1:IsPositionAttribute>false</d7p1:IsPositionAttribute>
                           <d7p1:Operator>Equal</d7p1:Operator>
@@ -2673,7 +2693,7 @@
                           <d7p1:_isCSharpExpression>false</d7p1:_isCSharpExpression>
                           <d7p1:_name>_ngcontent-c1</d7p1:_name>
                         </d7p1:XPathAttribute>
-                        <d7p1:XPathAttribute z:Id="i311">
+                        <d7p1:XPathAttribute z:Id="i313">
                           <d7p1:IsEnabled>false</d7p1:IsEnabled>
                           <d7p1:IsPositionAttribute>false</d7p1:IsPositionAttribute>
                           <d7p1:Operator>Equal</d7p1:Operator>
@@ -2691,7 +2711,7 @@
               <d7p1:ScreenShotBase64 i:nil="true" />
             </_xpathSettings>
           </PropertyValue>
-          <PropertyValue z:Id="i312">
+          <PropertyValue z:Id="i314">
             <PropertyName>Timeout</PropertyName>
             <_dataType>Value</_dataType>
             <_expression i:nil="true" />
@@ -2705,26 +2725,6 @@
         <RetryCount>-1</RetryCount>
         <Text>Клик по Старт</Text>
         <_activityFullName>Activities.Web.ClickElement</_activityFullName>
-      </AbstractStep>
-      <AbstractStep z:Id="i313" i:type="ExecutedStep">
-        <Childs />
-        <Id>b39c9026-b397-4dac-adaf-8d32842cda57</Id>
-        <Parent z:Ref="i2" />
-        <PropertyValues>
-          <PropertyValue z:Id="i314">
-            <PropertyName>Count</PropertyName>
-            <_dataType>Expression</_dataType>
-            <_expression>3</_expression>
-            <_value i:nil="true" />
-            <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
-          </PropertyValue>
-        </PropertyValues>
-        <SelectedOptionId>0</SelectedOptionId>
-        <EnableStatus>true</EnableStatus>
-        <ExceptionHandlingMode>Default</ExceptionHandlingMode>
-        <RetryCount>-1</RetryCount>
-        <Text></Text>
-        <_activityFullName>BR.Core.Base.Sleep</_activityFullName>
       </AbstractStep>
       <AbstractStep z:Id="i315" i:type="ExecutedStep">
         <Childs />
@@ -3966,10 +3966,10 @@
                           <d7p1:_name>LocalizedControlType</d7p1:_name>
                         </d7p1:XPathAttribute>
                         <d7p1:XPathAttribute z:Id="i461">
-                          <d7p1:IsEnabled>true</d7p1:IsEnabled>
+                          <d7p1:IsEnabled>false</d7p1:IsEnabled>
                           <d7p1:IsPositionAttribute>false</d7p1:IsPositionAttribute>
-                          <d7p1:Operator>Equal</d7p1:Operator>
-                          <d7p1:Value>'Rpa Challenge - Google Chrome'</d7p1:Value>
+                          <d7p1:Operator>Contains</d7p1:Operator>
+                          <d7p1:Value>'Google Chrome'</d7p1:Value>
                           <d7p1:_isCSharpExpression>false</d7p1:_isCSharpExpression>
                           <d7p1:_name>Name</d7p1:_name>
                         </d7p1:XPathAttribute>
@@ -4147,18 +4147,6 @@
       <Description></Description>
       <Name>columnWithInput</Name>
       <TypeString>System.Collections.Generic.KeyValuePair`2[[System.String, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]</TypeString>
-    </Parameter>
-    <Parameter z:Id="i481">
-      <DefaultValueExpression></DefaultValueExpression>
-      <Description></Description>
-      <Name>inputUiElement</Name>
-      <TypeString>Activities.Desktop.Core.UIElement</TypeString>
-    </Parameter>
-    <Parameter z:Id="i482">
-      <DefaultValueExpression></DefaultValueExpression>
-      <Description></Description>
-      <Name>str</Name>
-      <TypeString>System.String</TypeString>
     </Parameter>
   </Params>
   <TemplateVersion xmlns:d2p1="http://schemas.datacontract.org/2004/07/System" i:nil="true" />
